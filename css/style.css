@@ -261,3 +261,10 @@ color: #fff
     #links-container a:hover{
         color: #fff;
     }
+    #footer-bottom{
+        border-top: 1px solid #7a7a7a;
+        padding-top: 2em;
+    }
+    #footer-bottom i{
+color: #e61e10;
+    }
